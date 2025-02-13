@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/ml/fvm/versions/3.29.0/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ml/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ml/Dev/howest/25/smart-app/lab1_introduction/android/app/.cxx/Debug/4m385i50/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ml/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ml/Dev/howest/25/smart-app/lab1_introduction/android/app/.cxx/Debug/4m385i50/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
